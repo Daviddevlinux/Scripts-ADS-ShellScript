@@ -1,6 +1,6 @@
 # Automação das Atividades - Avaliação de Desempenho de Sistemas
 
-ste repositório é dedicado ao armazenamento dos scripts para automação das atividades práticas da disciplina Avaliação de Desempenho de Sistemas do curso de Sistemas de Informação - Campus IV - UFPB.
+Este repositório é dedicado ao armazenamento dos scripts para automação das atividades práticas da disciplina Avaliação de Desempenho de Sistemas do curso de Sistemas de Informação - Campus IV - UFPB.
 
 Os scripts foram desenvolvidos para facilitar a execução das simulações, coleta de dados e organização dos resultados, permitindo um foco maior na análise e interpretação dos dados coletados.
 
@@ -41,3 +41,7 @@ Os scripts foram desenvolvidos para facilitar a execução das simulações, col
 **- Instruções de Uso:** Passo a passo para execução dos scripts e interpretação dos resultados.
 
 Este repositório é uma ferramenta de suporte para a disciplina, combinando teoria e prática para aprimorar o aprendizado sobre avaliação de desempenho de sistemas computacionais.
+
+## Autor
+---
+David Maia - Estudante de Sistemas de Informação na UFPB, Campus IV.
