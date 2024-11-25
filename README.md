@@ -36,9 +36,12 @@ Os scripts foram desenvolvidos para facilitar a execução das simulações, col
 - Organizar resultados para posterior análise e interpretação.
 
 ## Conteúdo do Repositório
-**- Scripts de Automação:** Scripts Bash desenvolvidos para rodar simulações de desempenho de sistemas.
-**- Diretórios de Resultados:** Pastas organizadas para armazenar as saídas das simulações.
-**- Instruções de Uso:** Passo a passo para execução dos scripts e interpretação dos resultados.
+
+- Scripts de Automação: Scripts Bash desenvolvidos para rodar simulações de desempenho de sistemas.
+
+- Diretórios de Resultados: Pastas organizadas para armazenar as saídas das simulações.
+
+- Instruções de Uso: Passo a passo para execução dos scripts e interpretação dos resultados.
 
 Este repositório é uma ferramenta de suporte para a disciplina, combinando teoria e prática para aprimorar o aprendizado sobre avaliação de desempenho de sistemas computacionais.
 
