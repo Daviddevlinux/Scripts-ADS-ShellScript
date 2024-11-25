@@ -43,6 +43,5 @@ Os scripts foram desenvolvidos para facilitar a execução das simulações, col
 Este repositório é uma ferramenta de suporte para a disciplina, combinando teoria e prática para aprimorar o aprendizado sobre avaliação de desempenho de sistemas computacionais.
 
 ## Autor
-## Autor
 [David Maia](https://www.linkedin.com/in/davidmaiadev/) - Estudante de Sistemas de Informação na UFPB, Campus IV.
 
