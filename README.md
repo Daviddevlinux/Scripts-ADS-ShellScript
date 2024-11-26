@@ -1,4 +1,4 @@
-# Automação das Atividades - Avaliação de Desempenho de Sistemas
+# Automação das Atividades - Avaliação de Desempenho de Sistemas - Shell Script 🐧
 
 Este repositório é dedicado ao armazenamento dos scripts para automação das atividades práticas da disciplina Avaliação de Desempenho de Sistemas do curso de Sistemas de Informação - Campus IV - UFPB.
 
