@@ -5,6 +5,7 @@ Este repositório é dedicado ao armazenamento dos scripts para automação das 
 Os scripts foram desenvolvidos para facilitar a execução das simulações, coleta de dados e organização dos resultados, permitindo um foco maior na análise e interpretação dos dados coletados.
 
 ## Conteúdo do Repositório
+
 - Scripts para automação das simulações.
 - Diretórios organizados para armazenar os resultados das atividades.
 - Instruções de uso e execução de cada script.
@@ -46,5 +47,5 @@ Os scripts foram desenvolvidos para facilitar a execução das simulações, col
 Este repositório é uma ferramenta de suporte para a disciplina, combinando teoria e prática para aprimorar o aprendizado sobre avaliação de desempenho de sistemas computacionais.
 
 ## Autor
-[David Maia](https://www.linkedin.com/in/davidmaiadev/) - Estudante de Sistemas de Informação na UFPB, Campus IV.
 
+[David Maia](https://www.linkedin.com/in/davidmaiadev/) - Estudante de Sistemas de Informação na UFPB, Campus IV.
